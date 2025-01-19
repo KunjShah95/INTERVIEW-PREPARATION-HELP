@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+pinecone-client  # for Pinecone, or install Weaviate if you're using Weaviate
+requests
+gemini-api  # if available, or use HTTP requests for Gemini API
+transformers
