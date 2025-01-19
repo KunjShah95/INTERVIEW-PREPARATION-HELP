@@ -13,8 +13,10 @@ Welcome to the **INTERVIEW-PREPARATION-HELP** repository! This repo is designed 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Future Updates](#future-updates)
 - [License](#license)
 - [Contact](#contact)
+
 
 ## 📖 About
 This repository contains resources and exercises to help you prepare for technical interviews. We cover a wide range of topics including algorithms, data structures, system design, and more.
@@ -32,6 +34,16 @@ To get started, clone the repository and follow the instructions in the setup gu
 git clone https://github.com/KunjShah95/INTERVIEW-PREPARATION-HELP.git
 cd INTERVIEW-PREPARATION-HELP
 ```
+
+
+
+🔮 Future Updates
+Stay tuned for future updates! Here are some of the planned features:
+
+More practice problems.
+Additional interactive tutorials.
+Expanded content on system design.
+Regular updates and community events.
 
 🤝 Contributing
 We welcome contributions from everyone! Here’s how you can help:
@@ -54,9 +66,12 @@ Open a pull request.
 
 
 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
 📞 Contact
+
 Feel free to reach out if you have any questions or suggestions!
 
 Kunj Shah - GitHub
